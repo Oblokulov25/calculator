@@ -2,9 +2,6 @@
 
 Oddiy va tushunarli interfeysga ega bo'lgan, kundalik hisob-kitoblar uchun mo'ljallangan kalkulyator loyihasi. Ushbu loyiha dasturlash asoslarini o'rganish va amalda qo'llash maqsadida yaratilgan.
 
-![License](https://shields.io)
-![Stars](https://shields.io)
-![Issues](https://shields.io)
 
 ## ✨ Xususiyatlari
 - ✅ **Asosiy amallar:** Qo'shish, ayirish, ko'paytirish va bo'lish.
