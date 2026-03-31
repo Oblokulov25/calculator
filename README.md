@@ -1,18 +1,26 @@
-# React + Vite
+# 🧮 Smart Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Oddiy va tushunarli interfeysga ega bo'lgan, kundalik hisob-kitoblar uchun mo'ljallangan kalkulyator loyihasi. Ushbu loyiha dasturlash asoslarini o'rganish va amalda qo'llash maqsadida yaratilgan.
 
-Currently, two official plugins are available:
+![License](https://shields.io)
+![Stars](https://shields.io)
+![Issues](https://shields.io)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Xususiyatlari
+- ✅ **Asosiy amallar:** Qo'shish, ayirish, ko'paytirish va bo'lish.
+- 📱 **Responsive dizayn:** Ham kompyuter, ham mobil qurilmalar uchun moslashtirilgan.
+- 🎨 **Toza interfeys:** Foydalanuvchi uchun qulay va zamonaviy UI.
+- ⌨️ **Klaviatura yordami:** Raqamlarni klaviatura orqali kiritish imkoniyati.
 
-## React Compiler
+## 🚀 Texnologiyalar
+Ushbu loyihani yaratishda quyidagi texnologiyalardan foydalanilgan:
+* **HTML5** - Sahifa strukturasi uchun.
+* **CSS3** - Stil va dizayn (Flexbox/Grid) uchun.
+* **JavaScript (ES6+)** - Mantiqiy hisob-kitoblar uchun.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## 🛠 O'rnatish va ishga tushirish
+Loyihani o'z kompyuteringizda ishga tushirish uchun quyidagi qadamlarni bajaring:
 
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Repozitoriyani klonlang:
+   ```bash
+   git clone https://github.com/Oblokulov25/calculator.git
